@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.druizdiv5.pluginprueba.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.druizdiv5.pluginprueba.MyBundle
 
 class MyApplicationService {
 
